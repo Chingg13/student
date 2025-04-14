@@ -1,1 +1,21 @@
-# student
+# Hi there, I'm Chell Ann 👋
+
+Welcome to my GitHub! I'm a passionate BSIT student with a growing interest in technology, programming, and web development. My goal is to learn and improve my skills while working on exciting projects. 
+
+ 🔭 Currently working on:
+Learning new programming languages and frameworks
+Building personal projects to improve my coding skills
+Contributing to open-source projects
+
+
+ 🌱 I’m currently learning:
+HTML,CSS,JAVA,PHYTON
+
+
+📫 How to reach me:
+Email:chvi.ochavillo.coc@phinmaed.com
+LinkedIn:https://www.linkedin.com/in/chell-ann-villaluz-ochavillo-10a8a3357/
+
+
+Feel free to check out my repositories and contribute to any of my open projects!
+www.linkedin.com
